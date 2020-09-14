@@ -193,10 +193,17 @@ footer ul li a {
     }
 }
 
-/* DARK MODE */
+/* DARK and Light MODE */
 @media (prefers-color-scheme: light) {
     body {
         color: black;
         background: white;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        color: white;
+        background: rgb(39, 39, 39);
     }
 }
