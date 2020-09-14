@@ -213,12 +213,26 @@ footer ul li a {
         color: white;
     }
 
+    main .main-input input {
+        background-color: #252525;
+    }
+
+    main .main-input-container:hover {
+        border-color: white;
+    }
+
+    main .main-input input::placeholder {
+        color: white;
+        text-align: center;
+    }
+
     main .main-buttons button {
         color: white;
         background-color: #171717;
     }
 
     main .main-buttons button:hover {
+        cursor: pointer;
         background-color: #bfbfbf;
         color: #525252;
     }
