@@ -8,6 +8,9 @@ git
 - Corrección de bugs
 - Optimización para más navegadores (Edge, Chrome, Firefox, Opera)
 
+### Actualización 
+- Modo oscuro si tu navegador viene en dark mode por defecto.
+
 **Proximamente**
->-  Dark Mode muy pronto.
+>-  Dark Mode muy pronto con switch.
 > - Mejoras de Accesibilidad.
