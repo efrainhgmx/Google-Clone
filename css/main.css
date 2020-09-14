@@ -202,8 +202,26 @@ footer ul li a {
 }
 
 @media (prefers-color-scheme: dark) {
-    body {
+    body, 
+    footer {
         color: white;
-        background: rgb(39, 39, 39);
+        background: #252525;
     }
+
+    nav .nav-right-section a, 
+    .footer-content {
+        color: white;
+    }
+
+    main .main-buttons button {
+        color: white;
+        background-color: #171717;
+    }
+
+    main .main-buttons button:hover {
+        background-color: #bfbfbf;
+        color: #525252;
+    }
+    
+
 }
