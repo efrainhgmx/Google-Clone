@@ -219,6 +219,7 @@ footer ul li a {
 
     main .main-input-container:hover {
         border-color: white;
+        box-shadow: 0px 5px 6px 0 #adadadf2;
     }
 
     main .main-input input::placeholder {
