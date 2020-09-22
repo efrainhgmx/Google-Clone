@@ -82,7 +82,7 @@ main .main-input-container {
 }
 
 main .main-input input {
-    width: 450px;
+    width: 85%;
     height: 40px;
     border: none;
     outline: none;
