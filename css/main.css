@@ -234,8 +234,9 @@ footer ul li a {
 
     main .main-buttons button:hover {
         cursor: pointer;
-        background-color: #bfbfbf;
-        color: #525252;
+        box-shadow: -1px 1px 8px 0px #bfbfbf;;
+        background-color: #171717;
+        color: white;
     }
     
 
